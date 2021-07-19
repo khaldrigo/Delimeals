@@ -1,4 +1,6 @@
-# meals
+# Delimeals
+
+Pequeno projeto de cardápio e transição de telas.
 
 A new Flutter project.
 
